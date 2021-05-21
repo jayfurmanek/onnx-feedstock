@@ -1,0 +1,9 @@
+recipes:
+  - name : onnx-1.6
+    path : onnx-1.6
+
+  - name : onnx-1.7
+    path : onnx-1.7
+
+  - name : onnx-1.8
+    path : onnx-1.8
